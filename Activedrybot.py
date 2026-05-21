@@ -6,7 +6,7 @@ from telegram.ext import ApplicationBuilder, CommandHandler, MessageHandler, fil
 # filtra tipos de mensajes (texto, comandos, etc.) ( filters)
 # maneja el contexto de la conversación (ContextTypes)
 
-TOKEN = 8995348778:AAGFHTzEV_ZkC7fjmhwwyVkoyx-Fw91-kQ4
+TOKEN = 
 
 # async = función asíncrona (Telegram trabaja con eventos en tiempo real)
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
